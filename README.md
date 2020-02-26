@@ -1,2 +1,2 @@
-# cyberchallenge2020
+# Cyberchallenge 2020
 Project for cyberchallenge 2020
